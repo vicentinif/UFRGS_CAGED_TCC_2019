@@ -1,9 +1,8 @@
-# UFRGS_CAGED_TCC_2019
+# UFRGS TCC CAGED 2019
+# Especialização em Big Data & Data Science
 Objetivo: Código fontes desenvolvido como complemento da monografia.
 Aluno:       Rodrigo Vicentini
 Orientador:  Joao Comba
-Motivo:      TCC (2019)
-Curso:       UFRGS - Big Data & Data Science
 
 Aquisição dos Dados: 001_caged_extract.R
 
