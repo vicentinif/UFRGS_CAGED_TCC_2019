@@ -1,7 +1,7 @@
 # ================================================================================================
 # Objetivo:    Análises dos Dados CAGED
 # Aluno:       Rodrigo Vicentini
-# Orientadora: Joao Comba
+# Orientador:  Joao Comba
 # Motivo:      TCC (2019)
 # Curso:       UFRGS - Big Data & Data Science
 # ================================================================================================

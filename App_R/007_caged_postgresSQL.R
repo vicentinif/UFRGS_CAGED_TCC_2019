@@ -1,7 +1,7 @@
 # ================================================================================================
 # Objetivo:    Exportação dos Dados Tratados para o PostgreSQL
 # Aluno:       Rodrigo Vicentini
-# Orientadora: Joao Comba
+# Orientador:  Joao Comba
 # Motivo:      TCC (2019)
 # Curso:       UFRGS - Big Data & Data Science
 # ================================================================================================
