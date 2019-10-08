@@ -1,0 +1,556 @@
+2019/08/19 03:51:46 - Spoon - Using legacy execution engine
+2019/08/19 03:51:46 - Spoon - Transformation opened.
+2019/08/19 03:51:46 - Spoon - Launching transformation [load_caged_to_db]...
+2019/08/19 03:51:46 - Spoon - Started the transformation execution.
+2019/08/19 03:51:46 - load_caged_to_db - Dispatching started for transformation [load_caged_to_db]
+2019/08/19 03:51:47 - Table output.0 - Connected to database [PostgreSQL_Azure] (commit=50000)
+2019/08/19 03:51:47 - Get File Names.0 - Finished processing (I=0, O=0, R=0, W=10, U=0, E=0)
+2019/08/19 03:51:47 - Copy rows to result.0 - Finished processing (I=0, O=0, R=10, W=10, U=0, E=0)
+2019/08/19 03:51:47 - CSV file input 2.0 - Reading from 10 files.
+2019/08/19 03:51:47 - CSV file input 2.0 - Header row skipped in file 'D:\DADOS\CAGED\CAGEDEST_032010.csv'
+2019/08/19 03:51:47 - CSV file input 2.0 - Line number : 50000
+2019/08/19 03:51:48 - Select values.0 - linenr 50000
+2019/08/19 03:52:18 - Table output.0 - linenr 50000
+2019/08/19 03:52:19 - CSV file input 2.0 - Line number : 100000
+2019/08/19 03:52:19 - Select values.0 - linenr 100000
+2019/08/19 03:52:54 - Table output.0 - linenr 100000
+2019/08/19 03:52:54 - CSV file input 2.0 - Line number : 150000
+2019/08/19 03:52:54 - Select values.0 - linenr 150000
+2019/08/19 03:53:29 - Table output.0 - linenr 150000
+2019/08/19 03:53:29 - CSV file input 2.0 - Line number : 200000
+2019/08/19 03:53:29 - Select values.0 - linenr 200000
+2019/08/19 03:54:03 - Table output.0 - linenr 200000
+2019/08/19 03:54:04 - CSV file input 2.0 - Line number : 250000
+2019/08/19 03:54:04 - Select values.0 - linenr 250000
+2019/08/19 03:54:23 - Table output.0 - linenr 250000
+2019/08/19 03:54:23 - CSV file input 2.0 - Line number : 300000
+2019/08/19 03:54:23 - Select values.0 - linenr 300000
+2019/08/19 03:54:44 - Table output.0 - linenr 300000
+2019/08/19 03:54:44 - CSV file input 2.0 - Line number : 350000
+2019/08/19 03:54:45 - Select values.0 - linenr 350000
+2019/08/19 03:55:04 - Table output.0 - linenr 350000
+2019/08/19 03:55:04 - CSV file input 2.0 - Line number : 400000
+2019/08/19 03:55:04 - Select values.0 - linenr 400000
+2019/08/19 03:55:26 - Table output.0 - linenr 400000
+2019/08/19 03:55:26 - CSV file input 2.0 - Line number : 450000
+2019/08/19 03:55:26 - Select values.0 - linenr 450000
+2019/08/19 03:55:52 - Table output.0 - linenr 450000
+2019/08/19 03:55:52 - CSV file input 2.0 - Line number : 500000
+2019/08/19 03:55:52 - Select values.0 - linenr 500000
+2019/08/19 03:56:12 - Table output.0 - linenr 500000
+2019/08/19 03:56:12 - CSV file input 2.0 - Line number : 550000
+2019/08/19 03:56:12 - Select values.0 - linenr 550000
+2019/08/19 03:56:33 - Table output.0 - linenr 550000
+2019/08/19 03:56:33 - CSV file input 2.0 - Line number : 600000
+2019/08/19 03:56:34 - Select values.0 - linenr 600000
+2019/08/19 03:56:58 - Table output.0 - linenr 600000
+2019/08/19 03:56:58 - CSV file input 2.0 - Line number : 650000
+2019/08/19 03:56:59 - Select values.0 - linenr 650000
+2019/08/19 03:57:20 - Table output.0 - linenr 650000
+2019/08/19 03:57:21 - CSV file input 2.0 - Line number : 700000
+2019/08/19 03:57:21 - Select values.0 - linenr 700000
+2019/08/19 03:57:41 - Table output.0 - linenr 700000
+2019/08/19 03:57:42 - CSV file input 2.0 - Line number : 750000
+2019/08/19 03:57:42 - Select values.0 - linenr 750000
+2019/08/19 03:58:02 - Table output.0 - linenr 750000
+2019/08/19 03:58:02 - CSV file input 2.0 - Line number : 800000
+2019/08/19 03:58:02 - Select values.0 - linenr 800000
+2019/08/19 03:58:20 - Table output.0 - linenr 800000
+2019/08/19 03:58:20 - CSV file input 2.0 - Line number : 850000
+2019/08/19 03:58:21 - Select values.0 - linenr 850000
+2019/08/19 03:58:37 - Table output.0 - linenr 850000
+2019/08/19 03:58:37 - CSV file input 2.0 - Line number : 900000
+2019/08/19 03:58:37 - Select values.0 - linenr 900000
+2019/08/19 03:58:56 - Table output.0 - linenr 900000
+2019/08/19 03:58:56 - CSV file input 2.0 - Line number : 950000
+2019/08/19 03:58:56 - Select values.0 - linenr 950000
+2019/08/19 03:59:14 - Table output.0 - linenr 950000
+2019/08/19 03:59:14 - CSV file input 2.0 - Line number : 1000000
+2019/08/19 03:59:14 - Select values.0 - linenr 1000000
+2019/08/19 03:59:32 - Table output.0 - linenr 1000000
+2019/08/19 03:59:32 - CSV file input 2.0 - Line number : 1050000
+2019/08/19 03:59:33 - Select values.0 - linenr 1050000
+2019/08/19 03:59:50 - Table output.0 - linenr 1050000
+2019/08/19 03:59:51 - CSV file input 2.0 - Line number : 1100000
+2019/08/19 03:59:51 - Select values.0 - linenr 1100000
+2019/08/19 04:00:10 - Table output.0 - linenr 1100000
+2019/08/19 04:00:11 - CSV file input 2.0 - Line number : 1150000
+2019/08/19 04:00:11 - Select values.0 - linenr 1150000
+2019/08/19 04:00:37 - Table output.0 - linenr 1150000
+2019/08/19 04:00:38 - CSV file input 2.0 - Line number : 1200000
+2019/08/19 04:00:38 - Select values.0 - linenr 1200000
+2019/08/19 04:00:57 - Table output.0 - linenr 1200000
+2019/08/19 04:00:57 - CSV file input 2.0 - Line number : 1250000
+2019/08/19 04:00:57 - Select values.0 - linenr 1250000
+2019/08/19 04:01:15 - Table output.0 - linenr 1250000
+2019/08/19 04:01:15 - CSV file input 2.0 - Line number : 1300000
+2019/08/19 04:01:16 - Select values.0 - linenr 1300000
+2019/08/19 04:01:34 - Table output.0 - linenr 1300000
+2019/08/19 04:01:34 - CSV file input 2.0 - Line number : 1350000
+2019/08/19 04:01:35 - Select values.0 - linenr 1350000
+2019/08/19 04:01:54 - Table output.0 - linenr 1350000
+2019/08/19 04:01:54 - CSV file input 2.0 - Line number : 1400000
+2019/08/19 04:01:54 - Select values.0 - linenr 1400000
+2019/08/19 04:02:13 - Table output.0 - linenr 1400000
+2019/08/19 04:02:13 - CSV file input 2.0 - Line number : 1450000
+2019/08/19 04:02:13 - Select values.0 - linenr 1450000
+2019/08/19 04:02:31 - Table output.0 - linenr 1450000
+2019/08/19 04:02:32 - CSV file input 2.0 - Line number : 1500000
+2019/08/19 04:02:32 - Select values.0 - linenr 1500000
+2019/08/19 04:02:49 - Table output.0 - linenr 1500000
+2019/08/19 04:02:49 - CSV file input 2.0 - Line number : 1550000
+2019/08/19 04:02:49 - Select values.0 - linenr 1550000
+2019/08/19 04:03:08 - Table output.0 - linenr 1550000
+2019/08/19 04:03:09 - CSV file input 2.0 - Line number : 1600000
+2019/08/19 04:03:09 - Select values.0 - linenr 1600000
+2019/08/19 04:03:28 - Table output.0 - linenr 1600000
+2019/08/19 04:03:29 - CSV file input 2.0 - Line number : 1650000
+2019/08/19 04:03:29 - Select values.0 - linenr 1650000
+2019/08/19 04:04:02 - Table output.0 - linenr 1650000
+2019/08/19 04:04:03 - CSV file input 2.0 - Line number : 1700000
+2019/08/19 04:04:03 - Select values.0 - linenr 1700000
+2019/08/19 04:04:21 - Table output.0 - linenr 1700000
+2019/08/19 04:04:21 - CSV file input 2.0 - Line number : 1750000
+2019/08/19 04:04:21 - Select values.0 - linenr 1750000
+2019/08/19 04:04:39 - Table output.0 - linenr 1750000
+2019/08/19 04:04:39 - CSV file input 2.0 - Line number : 1800000
+2019/08/19 04:04:39 - Select values.0 - linenr 1800000
+2019/08/19 04:04:56 - Table output.0 - linenr 1800000
+2019/08/19 04:04:57 - CSV file input 2.0 - Line number : 1850000
+2019/08/19 04:04:57 - Select values.0 - linenr 1850000
+2019/08/19 04:05:14 - Table output.0 - linenr 1850000
+2019/08/19 04:05:15 - CSV file input 2.0 - Line number : 1900000
+2019/08/19 04:05:15 - Select values.0 - linenr 1900000
+2019/08/19 04:05:31 - Table output.0 - linenr 1900000
+2019/08/19 04:05:32 - CSV file input 2.0 - Line number : 1950000
+2019/08/19 04:05:32 - Select values.0 - linenr 1950000
+2019/08/19 04:05:49 - Table output.0 - linenr 1950000
+2019/08/19 04:05:49 - CSV file input 2.0 - Line number : 2000000
+2019/08/19 04:05:49 - Select values.0 - linenr 2000000
+2019/08/19 04:06:06 - Table output.0 - linenr 2000000
+2019/08/19 04:06:07 - CSV file input 2.0 - Line number : 2050000
+2019/08/19 04:06:07 - Select values.0 - linenr 2050000
+2019/08/19 04:06:24 - Table output.0 - linenr 2050000
+2019/08/19 04:06:24 - CSV file input 2.0 - Line number : 2100000
+2019/08/19 04:06:24 - Select values.0 - linenr 2100000
+2019/08/19 04:06:41 - Table output.0 - linenr 2100000
+2019/08/19 04:06:41 - CSV file input 2.0 - Line number : 2150000
+2019/08/19 04:06:41 - Select values.0 - linenr 2150000
+2019/08/19 04:07:00 - Table output.0 - linenr 2150000
+2019/08/19 04:07:00 - CSV file input 2.0 - Line number : 2200000
+2019/08/19 04:07:00 - Select values.0 - linenr 2200000
+2019/08/19 04:07:21 - Table output.0 - linenr 2200000
+2019/08/19 04:07:22 - CSV file input 2.0 - Line number : 2250000
+2019/08/19 04:07:22 - Select values.0 - linenr 2250000
+2019/08/19 04:07:40 - Table output.0 - linenr 2250000
+2019/08/19 04:07:40 - CSV file input 2.0 - Line number : 2300000
+2019/08/19 04:07:40 - Select values.0 - linenr 2300000
+2019/08/19 04:07:55 - Table output.0 - linenr 2300000
+2019/08/19 04:07:55 - CSV file input 2.0 - Line number : 2350000
+2019/08/19 04:07:55 - Select values.0 - linenr 2350000
+2019/08/19 04:08:11 - Table output.0 - linenr 2350000
+2019/08/19 04:08:11 - CSV file input 2.0 - Line number : 2400000
+2019/08/19 04:08:11 - Select values.0 - linenr 2400000
+2019/08/19 04:08:29 - Table output.0 - linenr 2400000
+2019/08/19 04:08:29 - CSV file input 2.0 - Line number : 2450000
+2019/08/19 04:08:29 - Select values.0 - linenr 2450000
+2019/08/19 04:08:46 - Table output.0 - linenr 2450000
+2019/08/19 04:08:47 - CSV file input 2.0 - Line number : 2500000
+2019/08/19 04:08:47 - Select values.0 - linenr 2500000
+2019/08/19 04:09:07 - Table output.0 - linenr 2500000
+2019/08/19 04:09:08 - CSV file input 2.0 - Line number : 2550000
+2019/08/19 04:09:08 - Select values.0 - linenr 2550000
+2019/08/19 04:09:27 - Table output.0 - linenr 2550000
+2019/08/19 04:09:28 - CSV file input 2.0 - Line number : 2600000
+2019/08/19 04:09:28 - Select values.0 - linenr 2600000
+2019/08/19 04:09:45 - Table output.0 - linenr 2600000
+2019/08/19 04:09:45 - CSV file input 2.0 - Line number : 2650000
+2019/08/19 04:09:46 - Select values.0 - linenr 2650000
+2019/08/19 04:10:06 - Table output.0 - linenr 2650000
+2019/08/19 04:10:06 - CSV file input 2.0 - Line number : 2700000
+2019/08/19 04:10:06 - Select values.0 - linenr 2700000
+2019/08/19 04:10:26 - Table output.0 - linenr 2700000
+2019/08/19 04:10:26 - CSV file input 2.0 - Line number : 2750000
+2019/08/19 04:10:26 - Select values.0 - linenr 2750000
+2019/08/19 04:10:43 - Table output.0 - linenr 2750000
+2019/08/19 04:10:44 - CSV file input 2.0 - Line number : 2800000
+2019/08/19 04:10:44 - Select values.0 - linenr 2800000
+2019/08/19 04:11:02 - Table output.0 - linenr 2800000
+2019/08/19 04:11:02 - CSV file input 2.0 - Line number : 2850000
+2019/08/19 04:11:02 - Select values.0 - linenr 2850000
+2019/08/19 04:11:19 - Table output.0 - linenr 2850000
+2019/08/19 04:11:20 - CSV file input 2.0 - Line number : 2900000
+2019/08/19 04:11:20 - Select values.0 - linenr 2900000
+2019/08/19 04:11:39 - Table output.0 - linenr 2900000
+2019/08/19 04:11:40 - CSV file input 2.0 - Line number : 2950000
+2019/08/19 04:11:40 - Select values.0 - linenr 2950000
+2019/08/19 04:11:58 - Table output.0 - linenr 2950000
+2019/08/19 04:11:58 - CSV file input 2.0 - Line number : 3000000
+2019/08/19 04:11:58 - Select values.0 - linenr 3000000
+2019/08/19 04:12:18 - Table output.0 - linenr 3000000
+2019/08/19 04:12:18 - CSV file input 2.0 - Line number : 3050000
+2019/08/19 04:12:18 - Select values.0 - linenr 3050000
+2019/08/19 04:12:38 - Table output.0 - linenr 3050000
+2019/08/19 04:12:39 - CSV file input 2.0 - Line number : 3100000
+2019/08/19 04:12:39 - Select values.0 - linenr 3100000
+2019/08/19 04:12:56 - Table output.0 - linenr 3100000
+2019/08/19 04:12:57 - CSV file input 2.0 - Line number : 3150000
+2019/08/19 04:12:57 - Select values.0 - linenr 3150000
+2019/08/19 04:13:14 - Table output.0 - linenr 3150000
+2019/08/19 04:13:14 - CSV file input 2.0 - Line number : 3200000
+2019/08/19 04:13:14 - Select values.0 - linenr 3200000
+2019/08/19 04:13:30 - Table output.0 - linenr 3200000
+2019/08/19 04:13:31 - CSV file input 2.0 - Line number : 3250000
+2019/08/19 04:13:31 - Select values.0 - linenr 3250000
+2019/08/19 04:13:48 - Table output.0 - linenr 3250000
+2019/08/19 04:13:48 - CSV file input 2.0 - Line number : 3300000
+2019/08/19 04:13:48 - Select values.0 - linenr 3300000
+2019/08/19 04:14:06 - Table output.0 - linenr 3300000
+2019/08/19 04:14:07 - CSV file input 2.0 - Line number : 3350000
+2019/08/19 04:14:07 - Select values.0 - linenr 3350000
+2019/08/19 04:14:25 - Table output.0 - linenr 3350000
+2019/08/19 04:14:26 - CSV file input 2.0 - Header row skipped in file 'D:\DADOS\CAGED\CAGEDEST_032011.csv'
+2019/08/19 04:14:26 - CSV file input 2.0 - Line number : 3400000
+2019/08/19 04:14:26 - Select values.0 - linenr 3400000
+2019/08/19 04:14:44 - Table output.0 - linenr 3400000
+2019/08/19 04:14:44 - CSV file input 2.0 - Line number : 3450000
+2019/08/19 04:14:44 - Select values.0 - linenr 3450000
+2019/08/19 04:15:00 - Table output.0 - linenr 3450000
+2019/08/19 04:15:01 - CSV file input 2.0 - Line number : 3500000
+2019/08/19 04:15:01 - Select values.0 - linenr 3500000
+2019/08/19 04:15:18 - Table output.0 - linenr 3500000
+2019/08/19 04:15:18 - CSV file input 2.0 - Line number : 3550000
+2019/08/19 04:15:19 - Select values.0 - linenr 3550000
+2019/08/19 04:15:36 - Table output.0 - linenr 3550000
+2019/08/19 04:15:36 - CSV file input 2.0 - Line number : 3600000
+2019/08/19 04:15:36 - Select values.0 - linenr 3600000
+2019/08/19 04:15:53 - Table output.0 - linenr 3600000
+2019/08/19 04:15:53 - CSV file input 2.0 - Line number : 3650000
+2019/08/19 04:15:53 - Select values.0 - linenr 3650000
+2019/08/19 04:16:07 - Table output.0 - linenr 3650000
+2019/08/19 04:16:07 - CSV file input 2.0 - Line number : 3700000
+2019/08/19 04:16:07 - Select values.0 - linenr 3700000
+2019/08/19 04:16:22 - Table output.0 - linenr 3700000
+2019/08/19 04:16:22 - CSV file input 2.0 - Line number : 3750000
+2019/08/19 04:16:22 - Select values.0 - linenr 3750000
+2019/08/19 04:16:37 - Table output.0 - linenr 3750000
+2019/08/19 04:16:37 - CSV file input 2.0 - Line number : 3800000
+2019/08/19 04:16:37 - Select values.0 - linenr 3800000
+2019/08/19 04:16:51 - Table output.0 - linenr 3800000
+2019/08/19 04:16:51 - CSV file input 2.0 - Line number : 3850000
+2019/08/19 04:16:51 - Select values.0 - linenr 3850000
+2019/08/19 04:17:05 - Table output.0 - linenr 3850000
+2019/08/19 04:17:05 - CSV file input 2.0 - Line number : 3900000
+2019/08/19 04:17:05 - Select values.0 - linenr 3900000
+2019/08/19 04:17:19 - Table output.0 - linenr 3900000
+2019/08/19 04:17:20 - CSV file input 2.0 - Line number : 3950000
+2019/08/19 04:17:20 - Select values.0 - linenr 3950000
+2019/08/19 04:17:35 - Table output.0 - linenr 3950000
+2019/08/19 04:17:36 - CSV file input 2.0 - Line number : 4000000
+2019/08/19 04:17:36 - Select values.0 - linenr 4000000
+2019/08/19 04:17:52 - Table output.0 - linenr 4000000
+2019/08/19 04:17:52 - CSV file input 2.0 - Line number : 4050000
+2019/08/19 04:17:52 - Select values.0 - linenr 4050000
+2019/08/19 04:18:11 - Table output.0 - linenr 4050000
+2019/08/19 04:18:11 - CSV file input 2.0 - Line number : 4100000
+2019/08/19 04:18:12 - Select values.0 - linenr 4100000
+2019/08/19 04:18:38 - Table output.0 - linenr 4100000
+2019/08/19 04:18:39 - CSV file input 2.0 - Line number : 4150000
+2019/08/19 04:18:39 - Select values.0 - linenr 4150000
+2019/08/19 04:19:05 - Table output.0 - linenr 4150000
+2019/08/19 04:19:06 - CSV file input 2.0 - Line number : 4200000
+2019/08/19 04:19:06 - Select values.0 - linenr 4200000
+2019/08/19 04:19:24 - Table output.0 - linenr 4200000
+2019/08/19 04:19:24 - CSV file input 2.0 - Line number : 4250000
+2019/08/19 04:19:24 - Select values.0 - linenr 4250000
+2019/08/19 04:19:44 - Table output.0 - linenr 4250000
+2019/08/19 04:19:44 - CSV file input 2.0 - Line number : 4300000
+2019/08/19 04:19:44 - Select values.0 - linenr 4300000
+2019/08/19 04:20:02 - Table output.0 - linenr 4300000
+2019/08/19 04:20:02 - CSV file input 2.0 - Line number : 4350000
+2019/08/19 04:20:02 - Select values.0 - linenr 4350000
+2019/08/19 04:20:18 - Table output.0 - linenr 4350000
+2019/08/19 04:20:18 - CSV file input 2.0 - Line number : 4400000
+2019/08/19 04:20:18 - Select values.0 - linenr 4400000
+2019/08/19 04:20:38 - Table output.0 - linenr 4400000
+2019/08/19 04:20:38 - CSV file input 2.0 - Line number : 4450000
+2019/08/19 04:20:38 - Select values.0 - linenr 4450000
+2019/08/19 04:21:00 - Table output.0 - linenr 4450000
+2019/08/19 04:21:00 - CSV file input 2.0 - Line number : 4500000
+2019/08/19 04:21:00 - Select values.0 - linenr 4500000
+2019/08/19 04:21:18 - Table output.0 - linenr 4500000
+2019/08/19 04:21:19 - CSV file input 2.0 - Line number : 4550000
+2019/08/19 04:21:19 - Select values.0 - linenr 4550000
+2019/08/19 04:21:39 - Table output.0 - linenr 4550000
+2019/08/19 04:21:39 - CSV file input 2.0 - Line number : 4600000
+2019/08/19 04:21:40 - Select values.0 - linenr 4600000
+2019/08/19 04:21:58 - Table output.0 - linenr 4600000
+2019/08/19 04:21:58 - CSV file input 2.0 - Line number : 4650000
+2019/08/19 04:21:58 - Select values.0 - linenr 4650000
+2019/08/19 04:22:18 - Table output.0 - linenr 4650000
+2019/08/19 04:22:18 - CSV file input 2.0 - Line number : 4700000
+2019/08/19 04:22:18 - Select values.0 - linenr 4700000
+2019/08/19 04:22:35 - Table output.0 - linenr 4700000
+2019/08/19 04:22:35 - CSV file input 2.0 - Line number : 4750000
+2019/08/19 04:22:35 - Select values.0 - linenr 4750000
+2019/08/19 04:22:49 - Table output.0 - linenr 4750000
+2019/08/19 04:22:50 - CSV file input 2.0 - Line number : 4800000
+2019/08/19 04:22:50 - Select values.0 - linenr 4800000
+2019/08/19 04:23:03 - Table output.0 - linenr 4800000
+2019/08/19 04:23:04 - CSV file input 2.0 - Line number : 4850000
+2019/08/19 04:23:04 - Select values.0 - linenr 4850000
+2019/08/19 04:23:17 - Table output.0 - linenr 4850000
+2019/08/19 04:23:17 - CSV file input 2.0 - Line number : 4900000
+2019/08/19 04:23:17 - Select values.0 - linenr 4900000
+2019/08/19 04:23:31 - Table output.0 - linenr 4900000
+2019/08/19 04:23:31 - CSV file input 2.0 - Line number : 4950000
+2019/08/19 04:23:31 - Select values.0 - linenr 4950000
+2019/08/19 04:23:45 - Table output.0 - linenr 4950000
+2019/08/19 04:23:45 - CSV file input 2.0 - Line number : 5000000
+2019/08/19 04:23:45 - Select values.0 - linenr 5000000
+2019/08/19 04:23:59 - Table output.0 - linenr 5000000
+2019/08/19 04:23:59 - CSV file input 2.0 - Line number : 5050000
+2019/08/19 04:23:59 - Select values.0 - linenr 5050000
+2019/08/19 04:24:13 - Table output.0 - linenr 5050000
+2019/08/19 04:24:13 - CSV file input 2.0 - Line number : 5100000
+2019/08/19 04:24:13 - Select values.0 - linenr 5100000
+2019/08/19 04:24:26 - Table output.0 - linenr 5100000
+2019/08/19 04:24:26 - CSV file input 2.0 - Line number : 5150000
+2019/08/19 04:24:27 - Select values.0 - linenr 5150000
+2019/08/19 04:24:40 - Table output.0 - linenr 5150000
+2019/08/19 04:24:40 - CSV file input 2.0 - Line number : 5200000
+2019/08/19 04:24:40 - Select values.0 - linenr 5200000
+2019/08/19 04:24:54 - Table output.0 - linenr 5200000
+2019/08/19 04:24:54 - CSV file input 2.0 - Line number : 5250000
+2019/08/19 04:24:54 - Select values.0 - linenr 5250000
+2019/08/19 04:25:07 - Table output.0 - linenr 5250000
+2019/08/19 04:25:07 - CSV file input 2.0 - Line number : 5300000
+2019/08/19 04:25:07 - Select values.0 - linenr 5300000
+2019/08/19 04:25:21 - Table output.0 - linenr 5300000
+2019/08/19 04:25:21 - CSV file input 2.0 - Line number : 5350000
+2019/08/19 04:25:21 - Select values.0 - linenr 5350000
+2019/08/19 04:25:34 - Table output.0 - linenr 5350000
+2019/08/19 04:25:34 - CSV file input 2.0 - Line number : 5400000
+2019/08/19 04:25:34 - Select values.0 - linenr 5400000
+2019/08/19 04:25:47 - Table output.0 - linenr 5400000
+2019/08/19 04:25:47 - CSV file input 2.0 - Line number : 5450000
+2019/08/19 04:25:48 - Select values.0 - linenr 5450000
+2019/08/19 04:26:01 - Table output.0 - linenr 5450000
+2019/08/19 04:26:01 - CSV file input 2.0 - Line number : 5500000
+2019/08/19 04:26:01 - Select values.0 - linenr 5500000
+2019/08/19 04:26:14 - Table output.0 - linenr 5500000
+2019/08/19 04:26:14 - CSV file input 2.0 - Line number : 5550000
+2019/08/19 04:26:14 - Select values.0 - linenr 5550000
+2019/08/19 04:26:28 - Table output.0 - linenr 5550000
+2019/08/19 04:26:28 - CSV file input 2.0 - Line number : 5600000
+2019/08/19 04:26:29 - Select values.0 - linenr 5600000
+2019/08/19 04:26:43 - Table output.0 - linenr 5600000
+2019/08/19 04:26:43 - CSV file input 2.0 - Line number : 5650000
+2019/08/19 04:26:43 - Select values.0 - linenr 5650000
+2019/08/19 04:26:57 - Table output.0 - linenr 5650000
+2019/08/19 04:26:57 - CSV file input 2.0 - Line number : 5700000
+2019/08/19 04:26:57 - Select values.0 - linenr 5700000
+2019/08/19 04:27:10 - Table output.0 - linenr 5700000
+2019/08/19 04:27:10 - CSV file input 2.0 - Line number : 5750000
+2019/08/19 04:27:11 - Select values.0 - linenr 5750000
+2019/08/19 04:27:24 - Table output.0 - linenr 5750000
+2019/08/19 04:27:24 - CSV file input 2.0 - Line number : 5800000
+2019/08/19 04:27:24 - Select values.0 - linenr 5800000
+2019/08/19 04:27:40 - Table output.0 - linenr 5800000
+2019/08/19 04:27:41 - CSV file input 2.0 - Line number : 5850000
+2019/08/19 04:27:41 - Select values.0 - linenr 5850000
+2019/08/19 04:27:55 - Table output.0 - linenr 5850000
+2019/08/19 04:27:55 - CSV file input 2.0 - Line number : 5900000
+2019/08/19 04:27:55 - Select values.0 - linenr 5900000
+2019/08/19 04:28:09 - Table output.0 - linenr 5900000
+2019/08/19 04:28:09 - CSV file input 2.0 - Line number : 5950000
+2019/08/19 04:28:09 - Select values.0 - linenr 5950000
+2019/08/19 04:28:23 - Table output.0 - linenr 5950000
+2019/08/19 04:28:23 - CSV file input 2.0 - Line number : 6000000
+2019/08/19 04:28:23 - Select values.0 - linenr 6000000
+2019/08/19 04:28:37 - Table output.0 - linenr 6000000
+2019/08/19 04:28:37 - CSV file input 2.0 - Line number : 6050000
+2019/08/19 04:28:37 - Select values.0 - linenr 6050000
+2019/08/19 04:28:51 - Table output.0 - linenr 6050000
+2019/08/19 04:28:51 - CSV file input 2.0 - Line number : 6100000
+2019/08/19 04:28:52 - Select values.0 - linenr 6100000
+2019/08/19 04:29:05 - Table output.0 - linenr 6100000
+2019/08/19 04:29:06 - CSV file input 2.0 - Line number : 6150000
+2019/08/19 04:29:06 - Select values.0 - linenr 6150000
+2019/08/19 04:29:19 - Table output.0 - linenr 6150000
+2019/08/19 04:29:19 - CSV file input 2.0 - Line number : 6200000
+2019/08/19 04:29:19 - Select values.0 - linenr 6200000
+2019/08/19 04:29:33 - Table output.0 - linenr 6200000
+2019/08/19 04:29:33 - CSV file input 2.0 - Line number : 6250000
+2019/08/19 04:29:34 - Select values.0 - linenr 6250000
+2019/08/19 04:29:47 - Table output.0 - linenr 6250000
+2019/08/19 04:29:47 - CSV file input 2.0 - Line number : 6300000
+2019/08/19 04:29:48 - Select values.0 - linenr 6300000
+2019/08/19 04:30:01 - Table output.0 - linenr 6300000
+2019/08/19 04:30:02 - CSV file input 2.0 - Line number : 6350000
+2019/08/19 04:30:02 - Select values.0 - linenr 6350000
+2019/08/19 04:30:15 - Table output.0 - linenr 6350000
+2019/08/19 04:30:16 - CSV file input 2.0 - Line number : 6400000
+2019/08/19 04:30:16 - Select values.0 - linenr 6400000
+2019/08/19 04:30:30 - Table output.0 - linenr 6400000
+2019/08/19 04:30:30 - CSV file input 2.0 - Line number : 6450000
+2019/08/19 04:30:30 - Select values.0 - linenr 6450000
+2019/08/19 04:30:45 - Table output.0 - linenr 6450000
+2019/08/19 04:30:45 - CSV file input 2.0 - Line number : 6500000
+2019/08/19 04:30:45 - Select values.0 - linenr 6500000
+2019/08/19 04:31:00 - Table output.0 - linenr 6500000
+2019/08/19 04:31:00 - CSV file input 2.0 - Line number : 6550000
+2019/08/19 04:31:00 - Select values.0 - linenr 6550000
+2019/08/19 04:31:13 - Table output.0 - linenr 6550000
+2019/08/19 04:31:13 - CSV file input 2.0 - Line number : 6600000
+2019/08/19 04:31:14 - Select values.0 - linenr 6600000
+2019/08/19 04:31:27 - Table output.0 - linenr 6600000
+2019/08/19 04:31:27 - CSV file input 2.0 - Line number : 6650000
+2019/08/19 04:31:27 - Select values.0 - linenr 6650000
+2019/08/19 04:31:41 - Table output.0 - linenr 6650000
+2019/08/19 04:31:42 - CSV file input 2.0 - Line number : 6700000
+2019/08/19 04:31:42 - Select values.0 - linenr 6700000
+2019/08/19 04:31:56 - Table output.0 - linenr 6700000
+2019/08/19 04:31:56 - CSV file input 2.0 - Line number : 6750000
+2019/08/19 04:31:56 - Select values.0 - linenr 6750000
+2019/08/19 04:32:11 - Table output.0 - linenr 6750000
+2019/08/19 04:32:12 - CSV file input 2.0 - Line number : 6800000
+2019/08/19 04:32:12 - Select values.0 - linenr 6800000
+2019/08/19 04:32:12 - CSV file input 2.0 - Header row skipped in file 'D:\DADOS\CAGED\CAGEDEST_032012.csv'
+2019/08/19 04:32:26 - Table output.0 - linenr 6800000
+2019/08/19 04:32:26 - CSV file input 2.0 - Line number : 6850000
+2019/08/19 04:32:26 - Select values.0 - linenr 6850000
+2019/08/19 04:32:41 - Table output.0 - linenr 6850000
+2019/08/19 04:32:42 - CSV file input 2.0 - Line number : 6900000
+2019/08/19 04:32:42 - Select values.0 - linenr 6900000
+2019/08/19 04:32:56 - Table output.0 - linenr 6900000
+2019/08/19 04:32:57 - CSV file input 2.0 - Line number : 6950000
+2019/08/19 04:32:57 - Select values.0 - linenr 6950000
+2019/08/19 04:33:11 - Table output.0 - linenr 6950000
+2019/08/19 04:33:11 - CSV file input 2.0 - Line number : 7000000
+2019/08/19 04:33:12 - Select values.0 - linenr 7000000
+2019/08/19 04:33:26 - Table output.0 - linenr 7000000
+2019/08/19 04:33:26 - CSV file input 2.0 - Line number : 7050000
+2019/08/19 04:33:27 - Select values.0 - linenr 7050000
+2019/08/19 04:33:41 - Table output.0 - linenr 7050000
+2019/08/19 04:33:42 - CSV file input 2.0 - Line number : 7100000
+2019/08/19 04:33:42 - Select values.0 - linenr 7100000
+2019/08/19 04:33:56 - Table output.0 - linenr 7100000
+2019/08/19 04:33:56 - CSV file input 2.0 - Line number : 7150000
+2019/08/19 04:33:56 - Select values.0 - linenr 7150000
+2019/08/19 04:34:11 - Table output.0 - linenr 7150000
+2019/08/19 04:34:11 - CSV file input 2.0 - Line number : 7200000
+2019/08/19 04:34:11 - Select values.0 - linenr 7200000
+2019/08/19 04:34:24 - Table output.0 - linenr 7200000
+2019/08/19 04:34:25 - CSV file input 2.0 - Line number : 7250000
+2019/08/19 04:34:25 - Select values.0 - linenr 7250000
+2019/08/19 04:34:38 - Table output.0 - linenr 7250000
+2019/08/19 04:34:38 - CSV file input 2.0 - Line number : 7300000
+2019/08/19 04:34:38 - Select values.0 - linenr 7300000
+2019/08/19 04:34:54 - Table output.0 - linenr 7300000
+2019/08/19 04:34:54 - CSV file input 2.0 - Line number : 7350000
+2019/08/19 04:34:54 - Select values.0 - linenr 7350000
+2019/08/19 04:35:09 - Table output.0 - linenr 7350000
+2019/08/19 04:35:09 - CSV file input 2.0 - Line number : 7400000
+2019/08/19 04:35:09 - Select values.0 - linenr 7400000
+2019/08/19 04:35:24 - Table output.0 - linenr 7400000
+2019/08/19 04:35:24 - CSV file input 2.0 - Line number : 7450000
+2019/08/19 04:35:24 - Select values.0 - linenr 7450000
+2019/08/19 04:35:40 - Table output.0 - linenr 7450000
+2019/08/19 04:35:40 - CSV file input 2.0 - Line number : 7500000
+2019/08/19 04:35:41 - Select values.0 - linenr 7500000
+2019/08/19 04:35:55 - Table output.0 - linenr 7500000
+2019/08/19 04:35:55 - CSV file input 2.0 - Line number : 7550000
+2019/08/19 04:35:55 - Select values.0 - linenr 7550000
+2019/08/19 04:36:10 - Table output.0 - linenr 7550000
+2019/08/19 04:36:10 - CSV file input 2.0 - Line number : 7600000
+2019/08/19 04:36:10 - Select values.0 - linenr 7600000
+2019/08/19 04:36:25 - Table output.0 - linenr 7600000
+2019/08/19 04:36:25 - CSV file input 2.0 - Line number : 7650000
+2019/08/19 04:36:25 - Select values.0 - linenr 7650000
+2019/08/19 04:36:41 - Table output.0 - linenr 7650000
+2019/08/19 04:36:41 - CSV file input 2.0 - Line number : 7700000
+2019/08/19 04:36:41 - Select values.0 - linenr 7700000
+2019/08/19 04:36:56 - Table output.0 - linenr 7700000
+2019/08/19 04:36:56 - CSV file input 2.0 - Line number : 7750000
+2019/08/19 04:36:56 - Select values.0 - linenr 7750000
+2019/08/19 04:37:12 - Table output.0 - linenr 7750000
+2019/08/19 04:37:13 - CSV file input 2.0 - Line number : 7800000
+2019/08/19 04:37:14 - Select values.0 - linenr 7800000
+2019/08/19 04:37:28 - Table output.0 - linenr 7800000
+2019/08/19 04:37:28 - CSV file input 2.0 - Line number : 7850000
+2019/08/19 04:37:28 - Select values.0 - linenr 7850000
+2019/08/19 04:37:42 - Table output.0 - linenr 7850000
+2019/08/19 04:37:42 - CSV file input 2.0 - Line number : 7900000
+2019/08/19 04:37:42 - Select values.0 - linenr 7900000
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Because of an error, this step can't continue:
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2019/08/19 04:38:02 - Table output.0 - Error performing rollback on connection
+2019/08/19 04:38:02 - Table output.0 - This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:900)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:878)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.writeToTable(TableOutput.java:339)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.processRow(TableOutput.java:125)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+2019/08/19 04:38:02 - Table output.0 - 	at java.lang.Thread.run(Unknown Source)
+2019/08/19 04:38:02 - Table output.0 - Caused by: org.postgresql.util.PSQLException: This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.checkClosed(PgConnection.java:766)
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.rollback(PgConnection.java:773)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:891)
+2019/08/19 04:38:02 - Table output.0 - 	... 5 more
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Unexpected error committing the database connection.
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2019/08/19 04:38:02 - Table output.0 - Error comitting connection
+2019/08/19 04:38:02 - Table output.0 - This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:819)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:791)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.emptyAndCommit(Database.java:1402)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:586)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:97)
+2019/08/19 04:38:02 - Table output.0 - 	at java.lang.Thread.run(Unknown Source)
+2019/08/19 04:38:02 - Table output.0 - Caused by: org.postgresql.util.PSQLException: This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.checkClosed(PgConnection.java:766)
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.commit(PgConnection.java:752)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:810)
+2019/08/19 04:38:02 - Table output.0 - 	... 5 more
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2019/08/19 04:38:02 - Table output.0 - Error comitting connection
+2019/08/19 04:38:02 - Table output.0 - This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:819)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:791)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.emptyAndCommit(Database.java:1402)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:586)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:97)
+2019/08/19 04:38:02 - Table output.0 - 	at java.lang.Thread.run(Unknown Source)
+2019/08/19 04:38:02 - Table output.0 - Caused by: org.postgresql.util.PSQLException: This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.checkClosed(PgConnection.java:766)
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.commit(PgConnection.java:752)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.commit(Database.java:810)
+2019/08/19 04:38:02 - Table output.0 - 	... 5 more
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Unexpected error rolling back the database connection.
+2019/08/19 04:38:02 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2019/08/19 04:38:02 - Table output.0 - Error performing rollback on connection
+2019/08/19 04:38:02 - Table output.0 - This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:900)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:878)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:621)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:97)
+2019/08/19 04:38:02 - Table output.0 - 	at java.lang.Thread.run(Unknown Source)
+2019/08/19 04:38:02 - Table output.0 - Caused by: org.postgresql.util.PSQLException: This connection has been closed.
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.checkClosed(PgConnection.java:766)
+2019/08/19 04:38:02 - Table output.0 - 	at org.postgresql.jdbc.PgConnection.rollback(PgConnection.java:773)
+2019/08/19 04:38:02 - Table output.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:891)
+2019/08/19 04:38:02 - Table output.0 - 	... 4 more
+2019/08/19 04:38:02 - Table output.0 - Finished processing (I=0, O=7850000, R=7900000, W=7850000, U=0, E=1)
+2019/08/19 04:38:02 - load_caged_to_db - Transformation detected one or more steps with errors.
+2019/08/19 04:38:02 - load_caged_to_db - Transformation is killing the other steps!
+2019/08/19 04:38:02 - Select values.0 - Finished processing (I=0, O=0, R=7910001, W=7910001, U=0, E=0)
+2019/08/19 04:38:02 - CSV file input 2.0 - Finished processing (I=7920005, O=0, R=10, W=7920002, U=0, E=0)
+2019/08/19 04:38:02 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!
+2019/08/19 04:38:02 - Spoon - The transformation has finished!!
+2019/08/19 04:38:02 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!
+2019/08/19 04:38:02 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!

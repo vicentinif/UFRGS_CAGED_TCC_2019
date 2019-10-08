@@ -1,0 +1,238 @@
+2019/08/19 02:39:43 - Spoon - Using legacy execution engine
+2019/08/19 02:39:43 - Spoon - Transformation opened.
+2019/08/19 02:39:43 - Spoon - Launching transformation [load_caged_to_db]...
+2019/08/19 02:39:43 - Spoon - Started the transformation execution.
+2019/08/19 02:39:43 - load_caged_to_db - Dispatching started for transformation [load_caged_to_db]
+2019/08/19 02:39:43 - Table output.0 - Connected to database [PostgreSQL_Azure] (commit=50000)
+2019/08/19 02:39:43 - Get File Names.0 - Finished processing (I=0, O=0, R=0, W=10, U=0, E=0)
+2019/08/19 02:39:43 - Copy rows to result.0 - Finished processing (I=0, O=0, R=10, W=10, U=0, E=0)
+2019/08/19 02:39:43 - CSV file input 2.0 - Reading from 10 files.
+2019/08/19 02:39:43 - CSV file input 2.0 - Header row skipped in file 'D:\DADOS\CAGED\CAGEDEST_032010.csv'
+2019/08/19 02:39:44 - CSV file input 2.0 - Line number : 50000
+2019/08/19 02:39:44 - Select values.0 - linenr 50000
+2019/08/19 02:40:17 - Table output.0 - linenr 50000
+2019/08/19 02:40:18 - CSV file input 2.0 - Line number : 100000
+2019/08/19 02:40:18 - Select values.0 - linenr 100000
+2019/08/19 02:40:48 - Table output.0 - linenr 100000
+2019/08/19 02:40:49 - CSV file input 2.0 - Line number : 150000
+2019/08/19 02:40:49 - Select values.0 - linenr 150000
+2019/08/19 02:41:20 - Table output.0 - linenr 150000
+2019/08/19 02:41:20 - CSV file input 2.0 - Line number : 200000
+2019/08/19 02:41:21 - Select values.0 - linenr 200000
+2019/08/19 02:41:50 - Table output.0 - linenr 200000
+2019/08/19 02:41:50 - CSV file input 2.0 - Line number : 250000
+2019/08/19 02:41:50 - Select values.0 - linenr 250000
+2019/08/19 02:42:07 - Table output.0 - linenr 250000
+2019/08/19 02:42:08 - CSV file input 2.0 - Line number : 300000
+2019/08/19 02:42:08 - Select values.0 - linenr 300000
+2019/08/19 02:42:25 - Table output.0 - linenr 300000
+2019/08/19 02:42:26 - CSV file input 2.0 - Line number : 350000
+2019/08/19 02:42:26 - Select values.0 - linenr 350000
+2019/08/19 02:42:43 - Table output.0 - linenr 350000
+2019/08/19 02:42:44 - CSV file input 2.0 - Line number : 400000
+2019/08/19 02:42:44 - Select values.0 - linenr 400000
+2019/08/19 02:43:01 - Table output.0 - linenr 400000
+2019/08/19 02:43:01 - CSV file input 2.0 - Line number : 450000
+2019/08/19 02:43:01 - Select values.0 - linenr 450000
+2019/08/19 02:43:18 - Table output.0 - linenr 450000
+2019/08/19 02:43:18 - CSV file input 2.0 - Line number : 500000
+2019/08/19 02:43:18 - Select values.0 - linenr 500000
+2019/08/19 02:43:34 - Table output.0 - linenr 500000
+2019/08/19 02:43:35 - CSV file input 2.0 - Line number : 550000
+2019/08/19 02:43:35 - Select values.0 - linenr 550000
+2019/08/19 02:43:51 - Table output.0 - linenr 550000
+2019/08/19 02:43:51 - CSV file input 2.0 - Line number : 600000
+2019/08/19 02:43:51 - Select values.0 - linenr 600000
+2019/08/19 02:44:08 - Table output.0 - linenr 600000
+2019/08/19 02:44:08 - CSV file input 2.0 - Line number : 650000
+2019/08/19 02:44:08 - Select values.0 - linenr 650000
+2019/08/19 02:44:26 - Table output.0 - linenr 650000
+2019/08/19 02:44:27 - CSV file input 2.0 - Line number : 700000
+2019/08/19 02:44:27 - Select values.0 - linenr 700000
+2019/08/19 02:44:45 - Table output.0 - linenr 700000
+2019/08/19 02:44:45 - CSV file input 2.0 - Line number : 750000
+2019/08/19 02:44:45 - Select values.0 - linenr 750000
+2019/08/19 02:45:01 - Table output.0 - linenr 750000
+2019/08/19 02:45:01 - CSV file input 2.0 - Line number : 800000
+2019/08/19 02:45:02 - Select values.0 - linenr 800000
+2019/08/19 02:45:18 - Table output.0 - linenr 800000
+2019/08/19 02:45:18 - CSV file input 2.0 - Line number : 850000
+2019/08/19 02:45:18 - Select values.0 - linenr 850000
+2019/08/19 02:45:35 - Table output.0 - linenr 850000
+2019/08/19 02:45:35 - CSV file input 2.0 - Line number : 900000
+2019/08/19 02:45:35 - Select values.0 - linenr 900000
+2019/08/19 02:45:51 - Table output.0 - linenr 900000
+2019/08/19 02:45:51 - CSV file input 2.0 - Line number : 950000
+2019/08/19 02:45:51 - Select values.0 - linenr 950000
+2019/08/19 02:46:08 - Table output.0 - linenr 950000
+2019/08/19 02:46:08 - CSV file input 2.0 - Line number : 1000000
+2019/08/19 02:46:08 - Select values.0 - linenr 1000000
+2019/08/19 02:46:25 - Table output.0 - linenr 1000000
+2019/08/19 02:46:25 - CSV file input 2.0 - Line number : 1050000
+2019/08/19 02:46:25 - Select values.0 - linenr 1050000
+2019/08/19 02:46:42 - Table output.0 - linenr 1050000
+2019/08/19 02:46:42 - CSV file input 2.0 - Line number : 1100000
+2019/08/19 02:46:42 - Select values.0 - linenr 1100000
+2019/08/19 02:46:59 - Table output.0 - linenr 1100000
+2019/08/19 02:46:59 - CSV file input 2.0 - Line number : 1150000
+2019/08/19 02:46:59 - Select values.0 - linenr 1150000
+2019/08/19 02:47:15 - Table output.0 - linenr 1150000
+2019/08/19 02:47:15 - CSV file input 2.0 - Line number : 1200000
+2019/08/19 02:47:16 - Select values.0 - linenr 1200000
+2019/08/19 02:47:31 - Table output.0 - linenr 1200000
+2019/08/19 02:47:32 - CSV file input 2.0 - Line number : 1250000
+2019/08/19 02:47:32 - Select values.0 - linenr 1250000
+2019/08/19 02:47:48 - Table output.0 - linenr 1250000
+2019/08/19 02:47:48 - CSV file input 2.0 - Line number : 1300000
+2019/08/19 02:47:48 - Select values.0 - linenr 1300000
+2019/08/19 02:48:05 - Table output.0 - linenr 1300000
+2019/08/19 02:48:05 - CSV file input 2.0 - Line number : 1350000
+2019/08/19 02:48:05 - Select values.0 - linenr 1350000
+2019/08/19 02:48:20 - Table output.0 - linenr 1350000
+2019/08/19 02:48:21 - CSV file input 2.0 - Line number : 1400000
+2019/08/19 02:48:21 - Select values.0 - linenr 1400000
+2019/08/19 02:48:37 - Table output.0 - linenr 1400000
+2019/08/19 02:48:38 - CSV file input 2.0 - Line number : 1450000
+2019/08/19 02:48:38 - Select values.0 - linenr 1450000
+2019/08/19 02:48:54 - Table output.0 - linenr 1450000
+2019/08/19 02:48:54 - CSV file input 2.0 - Line number : 1500000
+2019/08/19 02:48:54 - Select values.0 - linenr 1500000
+2019/08/19 02:49:10 - Table output.0 - linenr 1500000
+2019/08/19 02:49:11 - CSV file input 2.0 - Line number : 1550000
+2019/08/19 02:49:11 - Select values.0 - linenr 1550000
+2019/08/19 02:49:26 - Table output.0 - linenr 1550000
+2019/08/19 02:49:26 - CSV file input 2.0 - Line number : 1600000
+2019/08/19 02:49:26 - Select values.0 - linenr 1600000
+2019/08/19 02:49:42 - Table output.0 - linenr 1600000
+2019/08/19 02:49:42 - CSV file input 2.0 - Line number : 1650000
+2019/08/19 02:49:43 - Select values.0 - linenr 1650000
+2019/08/19 02:49:58 - Table output.0 - linenr 1650000
+2019/08/19 02:49:59 - CSV file input 2.0 - Line number : 1700000
+2019/08/19 02:49:59 - Select values.0 - linenr 1700000
+2019/08/19 02:50:14 - Table output.0 - linenr 1700000
+2019/08/19 02:50:14 - CSV file input 2.0 - Line number : 1750000
+2019/08/19 02:50:14 - Select values.0 - linenr 1750000
+2019/08/19 02:50:31 - Table output.0 - linenr 1750000
+2019/08/19 02:50:32 - CSV file input 2.0 - Line number : 1800000
+2019/08/19 02:50:32 - Select values.0 - linenr 1800000
+2019/08/19 02:50:48 - Table output.0 - linenr 1800000
+2019/08/19 02:50:48 - CSV file input 2.0 - Line number : 1850000
+2019/08/19 02:50:48 - Select values.0 - linenr 1850000
+2019/08/19 02:51:05 - Table output.0 - linenr 1850000
+2019/08/19 02:51:05 - CSV file input 2.0 - Line number : 1900000
+2019/08/19 02:51:05 - Select values.0 - linenr 1900000
+2019/08/19 02:51:23 - Table output.0 - linenr 1900000
+2019/08/19 02:51:23 - CSV file input 2.0 - Line number : 1950000
+2019/08/19 02:51:23 - Select values.0 - linenr 1950000
+2019/08/19 02:51:41 - Table output.0 - linenr 1950000
+2019/08/19 02:51:41 - CSV file input 2.0 - Line number : 2000000
+2019/08/19 02:51:41 - Select values.0 - linenr 2000000
+2019/08/19 02:51:57 - Table output.0 - linenr 2000000
+2019/08/19 02:51:57 - CSV file input 2.0 - Line number : 2050000
+2019/08/19 02:51:57 - Select values.0 - linenr 2050000
+2019/08/19 02:52:13 - Table output.0 - linenr 2050000
+2019/08/19 02:52:13 - CSV file input 2.0 - Line number : 2100000
+2019/08/19 02:52:13 - Select values.0 - linenr 2100000
+2019/08/19 02:52:29 - Table output.0 - linenr 2100000
+2019/08/19 02:52:30 - CSV file input 2.0 - Line number : 2150000
+2019/08/19 02:52:30 - Select values.0 - linenr 2150000
+2019/08/19 02:52:46 - Table output.0 - linenr 2150000
+2019/08/19 02:52:47 - CSV file input 2.0 - Line number : 2200000
+2019/08/19 02:52:47 - Select values.0 - linenr 2200000
+2019/08/19 02:53:01 - Table output.0 - linenr 2200000
+2019/08/19 02:53:02 - CSV file input 2.0 - Line number : 2250000
+2019/08/19 02:53:02 - Select values.0 - linenr 2250000
+2019/08/19 02:53:16 - Table output.0 - linenr 2250000
+2019/08/19 02:53:16 - CSV file input 2.0 - Line number : 2300000
+2019/08/19 02:53:16 - Select values.0 - linenr 2300000
+2019/08/19 02:53:31 - Table output.0 - linenr 2300000
+2019/08/19 02:53:31 - CSV file input 2.0 - Line number : 2350000
+2019/08/19 02:53:31 - Select values.0 - linenr 2350000
+2019/08/19 02:53:46 - Table output.0 - linenr 2350000
+2019/08/19 02:53:46 - CSV file input 2.0 - Line number : 2400000
+2019/08/19 02:53:46 - Select values.0 - linenr 2400000
+2019/08/19 02:54:00 - Table output.0 - linenr 2400000
+2019/08/19 02:54:00 - CSV file input 2.0 - Line number : 2450000
+2019/08/19 02:54:00 - Select values.0 - linenr 2450000
+2019/08/19 02:54:15 - Table output.0 - linenr 2450000
+2019/08/19 02:54:15 - CSV file input 2.0 - Line number : 2500000
+2019/08/19 02:54:15 - Select values.0 - linenr 2500000
+2019/08/19 02:54:29 - Table output.0 - linenr 2500000
+2019/08/19 02:54:29 - CSV file input 2.0 - Line number : 2550000
+2019/08/19 02:54:29 - Select values.0 - linenr 2550000
+2019/08/19 02:54:44 - Table output.0 - linenr 2550000
+2019/08/19 02:54:44 - CSV file input 2.0 - Line number : 2600000
+2019/08/19 02:54:44 - Select values.0 - linenr 2600000
+2019/08/19 02:54:59 - Table output.0 - linenr 2600000
+2019/08/19 02:54:59 - CSV file input 2.0 - Line number : 2650000
+2019/08/19 02:54:59 - Select values.0 - linenr 2650000
+2019/08/19 02:55:13 - Table output.0 - linenr 2650000
+2019/08/19 02:55:13 - CSV file input 2.0 - Line number : 2700000
+2019/08/19 02:55:13 - Select values.0 - linenr 2700000
+2019/08/19 02:55:28 - Table output.0 - linenr 2700000
+2019/08/19 02:55:28 - CSV file input 2.0 - Line number : 2750000
+2019/08/19 02:55:28 - Select values.0 - linenr 2750000
+2019/08/19 02:55:43 - Table output.0 - linenr 2750000
+2019/08/19 02:55:43 - CSV file input 2.0 - Line number : 2800000
+2019/08/19 02:55:43 - Select values.0 - linenr 2800000
+2019/08/19 02:55:57 - Table output.0 - linenr 2800000
+2019/08/19 02:55:57 - CSV file input 2.0 - Line number : 2850000
+2019/08/19 02:55:57 - Select values.0 - linenr 2850000
+2019/08/19 02:56:11 - Table output.0 - linenr 2850000
+2019/08/19 02:56:12 - CSV file input 2.0 - Line number : 2900000
+2019/08/19 02:56:12 - Select values.0 - linenr 2900000
+2019/08/19 02:56:26 - Table output.0 - linenr 2900000
+2019/08/19 02:56:26 - CSV file input 2.0 - Line number : 2950000
+2019/08/19 02:56:26 - Select values.0 - linenr 2950000
+2019/08/19 02:56:43 - Table output.0 - linenr 2950000
+2019/08/19 02:56:43 - CSV file input 2.0 - Line number : 3000000
+2019/08/19 02:56:43 - Select values.0 - linenr 3000000
+2019/08/19 02:56:58 - Table output.0 - linenr 3000000
+2019/08/19 02:56:58 - CSV file input 2.0 - Line number : 3050000
+2019/08/19 02:56:58 - Select values.0 - linenr 3050000
+2019/08/19 02:57:12 - Table output.0 - linenr 3050000
+2019/08/19 02:57:13 - CSV file input 2.0 - Line number : 3100000
+2019/08/19 02:57:13 - Select values.0 - linenr 3100000
+2019/08/19 02:57:13 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Because of an error, this step can't continue:
+2019/08/19 02:57:13 - Table output.0 - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : org.pentaho.di.core.exception.KettleValueException: 
+2019/08/19 02:57:13 - Table output.0 - Unexpected conversion error while converting value [Grau.Instrução String] to an Integer
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - Grau.Instrução String : couldn't convert String to Integer
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - Grau.Instrução String : couldn't convert String to number : non-numeric character found at position 1 for value [{?]
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.getInteger(ValueMetaBase.java:2088)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.convertData(ValueMetaBase.java:3811)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.convertBinaryStringToNativeType(ValueMetaBase.java:1586)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.getString(ValueMetaBase.java:1806)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.RowMeta.getString(RowMeta.java:328)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.RowMeta.getString(RowMeta.java:860)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.writeToTable(TableOutput.java:385)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.processRow(TableOutput.java:125)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+2019/08/19 02:57:13 - Table output.0 - 	at java.lang.Thread.run(Unknown Source)
+2019/08/19 02:57:13 - Table output.0 - Caused by: org.pentaho.di.core.exception.KettleValueException: 
+2019/08/19 02:57:13 - Table output.0 - Grau.Instrução String : couldn't convert String to Integer
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - Grau.Instrução String : couldn't convert String to number : non-numeric character found at position 1 for value [{?]
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.convertStringToInteger(ValueMetaBase.java:1330)
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.getInteger(ValueMetaBase.java:2026)
+2019/08/19 02:57:13 - Table output.0 - 	... 9 more
+2019/08/19 02:57:13 - Table output.0 - Caused by: org.pentaho.di.core.exception.KettleValueException: 
+2019/08/19 02:57:13 - Table output.0 - Grau.Instrução String : couldn't convert String to number : non-numeric character found at position 1 for value [{?]
+2019/08/19 02:57:13 - Table output.0 - 
+2019/08/19 02:57:13 - Table output.0 - 	at org.pentaho.di.core.row.value.ValueMetaBase.convertStringToInteger(ValueMetaBase.java:1324)
+2019/08/19 02:57:13 - Table output.0 - 	... 10 more
+2019/08/19 02:57:13 - Select values.0 - Finished processing (I=0, O=0, R=3109817, W=3109817, U=0, E=0)
+2019/08/19 02:57:13 - CSV file input 2.0 - Finished processing (I=3119719, O=0, R=10, W=3119718, U=0, E=0)
+2019/08/19 02:57:26 - Table output.0 - Finished processing (I=0, O=3099915, R=3099916, W=3050000, U=0, E=1)
+2019/08/19 02:57:26 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!
+2019/08/19 02:57:26 - Spoon - The transformation has finished!!
+2019/08/19 02:57:26 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!
+2019/08/19 02:57:26 - load_caged_to_db - ERROR (version 8.1.0.0-365, build 8.1.0.0-365 from 2018-04-30 09.42.24 by buildguy) : Errors detected!
+2019/08/19 02:57:26 - load_caged_to_db - Transformation detected one or more steps with errors.
+2019/08/19 02:57:26 - load_caged_to_db - Transformation is killing the other steps!
