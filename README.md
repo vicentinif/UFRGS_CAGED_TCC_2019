@@ -3,7 +3,7 @@
 Código fontes desenvolvido como complemento da monografia Análise da Série Histórica dos Dados do Cadastro Geral de Empregados e Desempregados
 Aluno: Rodrigo Vicentini. Orientador: Prof. Dr. João Comba
 
-# App R: 
+# App R
 
 Aquisição dos Dados: 001_caged_extract.R
 
