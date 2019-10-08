@@ -21,4 +21,12 @@ Análises dos Dados CAGED: 008_caged_analise.R
 
 # kettle
 
+load_caged_to_db.ktr
+
+load_files_caged_to_db.ktr
+
 # scripts_postrgresql
+
+cage_scripts.sql
+
+
