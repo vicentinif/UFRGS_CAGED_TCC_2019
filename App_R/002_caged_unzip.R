@@ -5,7 +5,8 @@
 # Motivo:      TCC (2019)
 # Curso:       UFRGS - Big Data & Data Science
 # ================================================================================================
-
+# bibliotecas
+library(curl)
 
 # 01) ler os dados em formato *.7z 
 for (ano in c(2019:2019)) {
@@ -17,7 +18,7 @@ for (ano in c(2019:2019)) {
   head(tbl)
   
   if (ano == 2019) {
-    urls <- paste0(url, tbl[1:3,1])
+    urls <- paste0(url, tbl[1:8,1])
   }else{urls <- paste0(url, tbl[1:12,1])}
   
   fls = basename(urls)

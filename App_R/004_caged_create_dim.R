@@ -121,12 +121,53 @@ Tipo.Mov.Desagregado <- c( 'Admissão por Primeiro Emprego'
 dimTipoMovDesagregado <- data.frame(Id.Tipo.Mov.Desagregado, Tipo.Mov.Desagregado)
 
 
+#----------------------------------------------------------------
+# dimSubsetor
+#----------------------------------------------------------------
+
+Id.Subsetor <- c(  1,2,3,4,5,6,7,8
+                   ,9,10,11,12,13,14
+                   ,15,16,17,18,19
+                   ,20,21,22,23,24,25
+                   ,-1)
+
+Subsetor <- c(   'Extrativa mineral'
+               ,'Indústria de produtos minerais nao metálicos'
+               ,'Indústria metalúrgica'
+               ,'Indústria mecânica'
+               ,'Indústria do material elétrico e de comunicaçoes'
+               ,'Indústria do material de transporte'
+               ,'Indústria da madeira e do mobiliário'
+               ,'Indústria do papel, papelao, editorial e gráfica'
+               ,'Ind. da borracha, fumo, couros, peles, similares, ind. diversas'
+               ,'Ind. química de produtos farmacêuticos, veterinários, perfumaria'
+               ,'Indústria têxtil do vestuário e artefatos de tecidos'
+               ,'Indústria de calçados'
+               ,'Indústria de produtos alimentícios, bebidas e álcool etílico'
+               ,'Serviços industriais de utilidade pública'
+               ,'Construçao civil'
+               ,'Comércio varejista'
+               ,'Comércio atacadista'
+               ,'Instituiçoes de crédito, seguros e capitalizaçao'
+               ,'Com. e administraçao de imóveis, valores mobiliários, serv. Técnico'
+               ,'Transportes e comunicaçoes'
+               ,'Serv. de alojamento, alimentaçao, reparaçao, manutençao, redaçao'
+               ,'Serviços médicos, odontológicos e veterinários'
+               ,'Ensino'
+               ,'Administraçao pública direta e autárquica'
+               ,'Agricultura, silvicultura, criaçao de animais, extrativismo vegetal'
+               ,'Ignorado')
+
+
+dimSubsetor <- data.frame(Id.Subsetor, Subsetor)
+
 # gerar arquivo csv das DIMs
-path <- setwd("C://Users//rodrigo.ferreira//Google Drive//Compartilhado//UFRGS_TCC//CAGED//microdados//formato_csv")
+path <- setwd("D://Usuários//Rodrigo//GoogleDrive//Compartilhado//UFRGS_TCC//CAGED//microdados//formato_csv")
 write.csv(dimGrauInstrucao, file = "dimGrauInstrucao.csv" ,row.names=FALSE)
 write.csv(dimRacaCor, file = "dimRacaCor.csv" ,row.names=FALSE)
 write.csv(dimSexo, file = "dimSexo.csv" ,row.names=FALSE)
 write.csv(dimTipoMovDesagregado, file = "dimTipoMovDesagregado.csv" ,row.names=FALSE)
+write.csv(dimSubsetor, file = "dimSubsetor.csv" ,row.names=FALSE)
 
 #list.file.names <- c(dimGrauInstrucao, dimRacaCor, dimSexo, dimRacaCor, dimTipoMovDesagregado)
 

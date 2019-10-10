@@ -18,7 +18,7 @@ library(curl)
 # ano <- c(2010:2019)
 
 # monta urls para download dos arquivos
-for (ano in c(2018:2019)) {
+for (ano in c(2019:2019)) {
   url <- paste0("ftp://ftp.mtps.gov.br/pdet/microdados/CAGED/", ano, "/", sep = "")
   h = new_handle(dirlistonly=TRUE)
   con = curl(url, "r", h)
@@ -27,7 +27,7 @@ for (ano in c(2018:2019)) {
   head(tbl)
   
   if (ano == 2019) {
-    urls <- paste0(url, tbl[1:3,1])
+    urls <- paste0(url, tbl[1:8,1])
   }else{urls <- paste0(url, tbl[1:12,1])}
   
   fls = basename(urls)
@@ -42,6 +42,7 @@ for (ano in c(2018:2019)) {
   }
   
   # faz a leitura de todos arquivos do ano
+  # salva no diretorio padrão do R (C:\Users\Rodrigo\Documents)
   for(i in 1:length(urls)){
     curl_fetch_disk(urls[i], fls[i])}
 }
